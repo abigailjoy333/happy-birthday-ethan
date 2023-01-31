@@ -1,5 +1,6 @@
 .cat-collage {
   background-image: url("images/cat-collage.jpg");
+  background-size: 100%;
 }
 
 .black-hole {
@@ -38,6 +39,8 @@ p {
   width: 33%;
   margin: 0 auto;
   padding: 15px;
+  font-size: 17px;
+  background-color: rgba(187,208,255, .5);
 }
 
 .white-text {
